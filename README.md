@@ -1,3 +1,3 @@
 # Information-Managment
 
-Relational Databases and JDBC
+Implementing Relational Databases. Creating Databases using JDBC.
