@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class IdealHomeDBConfig {
 	private static final String USERNAME = "root";
-	private static final String PASSWORD = "Poblet@5510@4035";
+	private static final String PASSWORD = "";
 	private static final String CONN_STRING = "jdbc:mysql://localhost/idealhome?useSSL=false";
 	
 	public static Connection getConnection() throws SQLException{
